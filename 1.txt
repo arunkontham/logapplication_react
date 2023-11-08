@@ -1,0 +1,7 @@
+ls-logs-dashboard
+api-order-management
+ui-patient-management
+api-super-admin
+api-admin-user-management
+api-result-management
+api-dashboard-report
